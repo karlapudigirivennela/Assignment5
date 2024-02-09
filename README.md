@@ -10,6 +10,5 @@ The SVM couldn't give better results because the data has six classifiers and wa
 SVM would have produced better results if the data transmission had occurred utilizing a kernel option.
 
 In conclusion, naive bayes would be preferable if forced to select between it and ordinary SVM.
-
 GITHUB Link:
 https://github.com/karlapudigirivennela/Assignment5700748092/blob/main/README.md
