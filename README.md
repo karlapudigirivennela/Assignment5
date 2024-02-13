@@ -14,3 +14,4 @@ In conclusion, naive bayes would be preferable if forced to select between it an
 GITHUB Link:
 https://github.com/karlapudigirivennela/Assignment5700748092/blob/main/README.md
 VIDEO Link:
+https://drive.google.com/file/d/1GiiBbys6XKv7HR0WvBR2DiH5r9RJnWVI/view?usp=drive_link
